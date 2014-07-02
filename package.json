@@ -1,0 +1,23 @@
+{
+  "name": "Class",
+  "version": "0.0.0",
+  "description": "A Simple Javascript Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:HeavenWesker/fork2-node-class.git"
+  },
+  "author": "heavenwesker <Heaven.Wesker@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeavenWesker/javascript-class/issues"
+  },
+  "homepage": "https://github.com/HeavenWesker/javascript-class",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1"
+  }
+}
